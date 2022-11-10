@@ -17,8 +17,8 @@ def main():
     Button(root, text = " Stop ", width=WIDTH, font=FONT, fg=BLACK, bg=RED, command=Stop).grid(row=5, column=1, padx=5, pady=4)  
 
 
-if __name__ == '__main__':
-    time()
-    main()
+if __name__ == '__main__': 
+    time() 
+    main() 
     root.mainloop() 
 
