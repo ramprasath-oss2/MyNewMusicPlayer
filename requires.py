@@ -16,6 +16,12 @@ TEAL = "teal"
 
 BLUE = "blue2" 
 
+BLACK = "black" 
+
+CYAN = "cyan" 
+
+YELLOW = "yellow" 
+
 GREEN = "green2"
 
 PINK = "pink"

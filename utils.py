@@ -1,7 +1,7 @@
 from time import strftime
 from tkinter import filedialog, Label
 from pygame import mixer
-from requires import *
+from requires import root
 mixer.init()
 
 label1 = Label(root, font=("Old-English", 15), width=10, bg="black", fg="cyan")
