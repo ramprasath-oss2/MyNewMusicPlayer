@@ -1,18 +1,18 @@
 from tkinter import Tk
 
-Number = 0
+Number = 0 
 
-root = Tk()
+root = Tk() 
 
-WIDTH = 10
+WIDTH = 10 
 
-FONT = ("Comic Sans MS", 15) # User-defined FONT
+FONT = ("Comic Sans MS", 15)  # User-defined FONT 
 
-RED = "red"
+RED = "red" 
 
-WHITE = "white"
+WHITE = "white" 
 
-TEAL = "teal"
+TEAL = "teal" 
 
 BLUE = "blue2" 
 
@@ -22,6 +22,6 @@ CYAN = "cyan"
 
 YELLOW = "yellow" 
 
-GREEN = "green2"
+GREEN = "green2" 
 
-PINK = "pink"
+PINK = "pink" 
