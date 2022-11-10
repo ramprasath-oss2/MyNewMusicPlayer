@@ -2,7 +2,7 @@ from tkinter import Button
 from requires import WIDTH, FONT, root 
 from requires import GREEN, BLACK, PINK, YELLOW, CYAN, RED 
 from utils import Load, Mute, Queue, Replay, Stop, time 
-from symbols import Psymbol, Msymbol, Qsymbol, Esymbol, Rsymbol 
+#  from symbols import Psymbol, Msymbol, Qsymbol, Esymbol, Rsymbol 
 
 
 root.title("Music Player App") 

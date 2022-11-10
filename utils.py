@@ -4,6 +4,7 @@ from pygame import mixer
 from requires import root
 mixer.init()
 
+
 label1 = Label(root, font=("Old-English", 15), width=10, bg="black", fg="cyan")
 label1.grid(row=0, column=1)
 
